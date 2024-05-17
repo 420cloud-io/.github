@@ -24,3 +24,18 @@ Some links lead to GitHub 404 pages if the selected project is closed source.
   - [ntrx-file-bundle](https://github.com/420cloud-io/legacy-ntrx-file-bundle)
 - [Mobile App Packages](https://github.com/420cloud-io/legacy-420cloud-app-packages)
 - [Mobile App](https://github.com/420cloud-io/legacy-420cloud-app)
+
+## 🛠️ Prototypes
+
+- [Authentication](https://github.com/420cloud-io/prototype-authentication)
+- [TrolMaster Hydro-X Pro](https://github.com/420cloud-io/420cloudapi_tromaster_hydropro)
+- [HIPOS Connector](https://github.com/420cloud-io/420cloudConnector)
+
+## 🧰 Tools
+
+- [CSC Maps Scraper](https://github.com/420cloud-io/py-clubzucker)
+- [Leafly Scraper](https://github.com/420cloud-io/LeafDeepFlyer_420Strains_JSON_Maker_001)
+
+## 📚 Tutorials
+
+- [Mobile App Internal Distribution](https://github.com/420cloud-io/internal-distribution)
